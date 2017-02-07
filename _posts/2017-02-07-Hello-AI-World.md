@@ -2,6 +2,7 @@
 layout: post
 title: Join Hands To Create Evil Sooner Than Later
 ---
+![i-robot](https://cloud.githubusercontent.com/assets/8801972/22688080/aee83c92-ed50-11e6-820d-b71a3f378a65.jpg)
 
 # The Ultimate Dream
 

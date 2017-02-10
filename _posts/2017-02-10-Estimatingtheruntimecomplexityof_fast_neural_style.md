@@ -8,6 +8,16 @@ title: Running time complexity of fast-neural style algorithm
 In this post we compute the running time complexity of the algorithm proposed in the paper 
 **[Perceptual Losses for Real-Time Style Transfer](http://cs.stanford.edu/people/jcjohns/eccv16/)**
 
+# Quick computation
+
+The total number of computations for one forward pass of this algorithm is **20607** *million*.
+
+Hence, if your computer is running on 2.2GHz porcessor. Then, total time required to finish these operations can be calculated as : 
+
+Time required = 20607 / 
+
+Time required =T<sub>f</sub>* 2 * N
+
 
 # Basic Formulae:
 
@@ -20,6 +30,11 @@ where oW is the output width, padW is the horizontal padding, iW is the input wi
 ## Number of operations:
 
 `No.of operations = activation size x filter size x no.of filters`
+
+## General:
+*`1 Giga = 1 billion
+* 1 Giga(billion) = 1000 million
+* 1 million = thousand thosands = 1000 * 1000
 
 # Architecture along with computations:
 

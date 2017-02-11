@@ -11,7 +11,7 @@ In this post we compute the running time complexity of the algorithm proposed in
 
 # Quick calculation
 
-The total number of computations for one forward pass of this algorithm is **20607** *million*. Refer below for details.
+The total number of computations for one forward pass of this algorithm is **20607** *million*. (*Refer below for detailed computation*)
 
 Hence, if your computer is running on 2.2GHz porcessor. Then, total time required to finish these operations can be calculated as : 
 

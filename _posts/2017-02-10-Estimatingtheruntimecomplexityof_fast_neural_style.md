@@ -2,6 +2,18 @@
 layout: post
 title: Running time complexity of fast-neural style algorithm
 ---
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
 
 ![fast-neuralstyle](https://cloud.githubusercontent.com/assets/8801972/22820236/dbd7fd76-ef9b-11e6-97ad-43e9cc149c5d.jpg)
 

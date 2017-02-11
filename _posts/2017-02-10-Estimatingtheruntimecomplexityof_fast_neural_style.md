@@ -15,9 +15,9 @@ The total number of computations for one forward pass of this algorithm is **206
 
 Hence, if your computer is running on 2.2GHz porcessor. Then, total time required to finish these operations can be calculated as : 
 
-Time required for one forward pass = 20607 / 2200 = 9.36sec
+Time required for forward pass = 20607 / 2200 = 9.36sec
 
-Time required for one iteration/epoch (forward + backward) = 2 * 9.36 = 18.72sec
+Time required for one iteration/epoch = 2 * 9.36 = 18.72sec
 
 Say, we are running for 40,000 iterations then time = 40,000 * 9.36 = 748800sec = 208hrs = 8.66 days approx.
 

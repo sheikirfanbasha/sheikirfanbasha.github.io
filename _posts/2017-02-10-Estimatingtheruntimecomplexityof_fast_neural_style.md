@@ -32,9 +32,10 @@ where oW is the output width, padW is the horizontal padding, iW is the input wi
 `No.of operations = activation size x filter size x no.of filters`
 
 ## General:
-*`1 Giga = 1 billion
+
+* 1 Giga = 1 billion
 * 1 Giga(billion) = 1000 million
-* 1 million = thousand thosands = 1000 * 1000`
+* 1 million = thousand thosands = 1000 * 1000
 
 # Architecture along with computations:
 

@@ -22,24 +22,24 @@ Time required for one iteration/epoch = 2 * 9.36 = 18.72sec
 Say, we are running for 40,000 iterations then time = 40,000 * 9.36 = 748800sec = 208hrs = 8.66 days approx.
 
 
-# Basic Formulae:
+# Basic Formulae
 
-## Size of activation map:
+## Size of activation map
 
 `oW = floor((padW * 2 + iW - kW) / dW) + 1`
 
 where oW is the output width, padW is the horizontal padding, iW is the input width, kW is the kernel width and dW is the horizontal stride. In all the convolution layers where padding isn't explicitly specified, it is always considered a padding of floor(kW / 2). The same holds for the vertical dimension, with W replaced by H.
 
-## Number of operations:
+## Number of operations
 
 `No.of operations = activation size x filter size x no.of filters`
 
-## General:
+## General
 
 * 1 Giga = 1 billion
 * 1 Giga(billion) = 1000 million
 * 1 million = thousand thosands = 1000 * 1000
 
-# Architecture along with computations:
+# Architecture along with computations
 
 ![runtimecomplexity](https://cloud.githubusercontent.com/assets/8801972/22853669/affeeb3c-f082-11e6-887c-80f5dc7aadbc.jpg)

@@ -9,16 +9,19 @@ title: Jupyter notebook with the virtual environment
 
 > conda create -n env_name python=3.6
 
+### 2. Actiavte the venv
 
-### 2. Install the kernel that uses the virtual env
+> source activate env_name
 
-> conda install ipykernel --name env_name --display-name user_friendly_env_name
+### 3. Install the kernel that uses the virtual env
 
-### 3. Start the jupyter notebook
+> python -m ipykernel install  --name env_name --display-name user_friendly_env_name
+
+### 4. Start the jupyter notebook
 
 > jupyter notebook
 
-### 4. Choose the kernel from the UI
+### 5. Choose the kernel from the UI
 
 ## Test
 

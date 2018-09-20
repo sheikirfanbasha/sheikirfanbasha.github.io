@@ -11,7 +11,7 @@ title: Jupyter notebook with the virtual environment
 
 ### 2. Actiavte the venv
 
-> source activate env_name
+> conda activate env_name
 
 ### 3. Install the kernel that uses the virtual env
 
@@ -23,12 +23,16 @@ title: Jupyter notebook with the virtual environment
 
 ### 5. Choose the kernel from the UI
 
-## Test
+#### Test
 
 ```python
 import sys
 print(sys.executable)
 ```
+
+### Deactivate the venv
+
+> conda deactivate
 
 ## FAQ
 

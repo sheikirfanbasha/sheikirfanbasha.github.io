@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basics Of Machine Learning
+title: Central Tendency Of Data
 ---
 
 ## Definition

@@ -15,7 +15,7 @@ title: Jupyter notebook with the virtual environment
 
 ### 3. Install the kernel that uses the virtual env
 
-> python -m ipykernel install  --name env_name --display-name user_friendly_env_name
+> python -m ipykernel install --user --name env_name --display-name user_friendly_env_name
 
 ### 4. Start the jupyter notebook
 

@@ -1,32 +1,24 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "sheikirfanbasha"
+description: "Irfan's blog"
+meta_description: "sheikirfanbasha blog, Machine Learning, Augmented Reality, Artificial Intelligence"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: 
+google_analytics: 'UA-60325064-4'
+disqus: 'sheikirfanbasha'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  sheikirfanbasha:
+    name: sheikirfanbasha
+    display_name: Irfan
+    gravatar: 13dc56ac552dcaff219097821c994455
+    email: sheikirfanbasha@gmail.com
+    web: https://www.linkedin.com/in/sheikirfanbasha
+    twitter: https://twitter.com/sheikirfanbasha
+    description: "I am Computer Science Engineer, passionate in developing applications related to Augmented Reality and Machine Learning."
 
 # Plugins
 plugins: 

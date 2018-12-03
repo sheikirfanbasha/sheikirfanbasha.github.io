@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Central Tendency Of Data
+image: assets/images/statistics.png
+featured: false
+hidden: false
+author: sheikirfanbasha
+categories: [ statistics, machine-learning ]
 ---
-
-## Definition
 
 The more well accepted definition of machine learning is that "It is a computer program which is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E"
 

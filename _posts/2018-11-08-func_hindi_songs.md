@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Hindi Songs List For Video Making
+image: assets/images/wedding-songs.jpeg
+featured: false
+hidden: false
+author: sheikirfanbasha
+categories: [ songs, bollywood, video-mixing ]
 ---
 
 ## Songs List

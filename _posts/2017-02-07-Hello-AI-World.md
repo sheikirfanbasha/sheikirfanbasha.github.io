@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Join Hands To Create Evil Sooner Than Later
+image: assets/images/i-robot.jpg
+featured: true
+hidden: false
+author: sheikirfanbasha
+categories: [ artificial-intelligence, machine-learning ]
 ---
-![i-robot](https://cloud.githubusercontent.com/assets/8801972/22688080/aee83c92-ed50-11e6-820d-b71a3f378a65.jpg)
-
-# The Ultimate Dream
 
 It can be strongly believed that the whole universe is dreams driven. We witness it on earth everyday. Everybody in our world is either living their own dream or somebody else dream. But the ultimate dream shared to all of us is to demolish the whole human race and life on earth. Don’t know if this is the dream of God or someone else but we humans are executing it perfectly without realization. It is a complete mind game being played to create one big monolithic evil which will have the power to demolish the life on earth completely.
 

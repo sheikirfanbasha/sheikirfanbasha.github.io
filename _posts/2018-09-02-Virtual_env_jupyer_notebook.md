@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Jupyter notebook with the virtual environment
+image: assets/images/jupyter-splash.png
+featured: false
+hidden: false
+author: sheikirfanbasha
+categories: [ jupyter, machine-learning, python ]
 ---
 
 ## Steps to make jupyter notebook run with the virual env.

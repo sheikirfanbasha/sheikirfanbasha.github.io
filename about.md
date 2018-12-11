@@ -4,7 +4,7 @@ title: About
 comments: false
 ---
 
-Gold medalist, Patent holder and Game developer. Strong in Object oriented concepts and in the application of data structures and algorithms. Love to develop applications which are related to Artificial intelligence (Computer vision, Machine learning), simulators or games.
+Computer Science Engineer who loves to develop applications related to Artificial intelligence (Computer vision, Machine learning), simulators or games.
 
 ### Contact me
 

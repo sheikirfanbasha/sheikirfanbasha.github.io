@@ -2,7 +2,7 @@
 layout: post
 title: Running time complexity of fast-neural style algorithm
 image: assets/images/style-transfer.jpg
-featured: true
+featured: false
 hidden: false
 author: sheikirfanbasha
 categories: [ machine-learning, style-ransfer, computer-vision ]
